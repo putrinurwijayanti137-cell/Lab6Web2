@@ -100,4 +100,4 @@ Praktikum ini menunjukkan bahwa JavaScript dapat digunakan untuk mengakses dan m
 
 Nama gambar pada bagian screenshot harus sesuai dengan nama file yang tersimpan di folder `image`. Jika nama file memiliki ekstensi seperti `.png` atau `.jpg`, sertakan ekstensi tersebut pada tautan gambar agar screenshot dapat ditampilkan di GitHub.
 
-![Tes gambar](./image/latihan-3-gaya-css.png)
+
