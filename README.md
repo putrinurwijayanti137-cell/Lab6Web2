@@ -1,3 +1,11 @@
+<img width="960" height="504" alt="latihan-6-tambah-selesai-hapus" src="https://github.com/user-attachments/assets/9fd62e7a-235c-4f81-987f-0fc81d3040d6" />
+<img width="960" height="504" alt="latihan-5-nama-kosong" src="https://github.com/user-attachments/assets/852932e9-33a0-4734-8fc5-a9981e288fa7" />
+<img width="960" height="504" alt="latihan-5-email-tidak-valid" src="https://github.com/user-attachments/assets/2d1d4e38-c6eb-4be8-ba07-3a94258413f3" />
+<img width="960" height="504" alt="latihan-4-penghitung-karakter" src="https://github.com/user-attachments/assets/fd03f378-d147-4b62-a097-87c7de3f85ab" />
+<img width="960" height="504" alt="latihan-3-gaya-css" src="https://github.com/user-attachments/assets/826f2ad2-e0e3-4526-81f9-86692458e774" />
+<img width="960" height="504" alt="latihan-1-2-dom-click2" src="https://github.com/user-attachments/assets/6af479f1-e99f-474a-9dd3-eaf42400ee88" />
+<img width="960" height="504" alt="latihan-1-2-dom-click" src="https://github.com/user-attachments/assets/0e8e2d7d-a9f3-4575-bdcb-3307f5a387f0" />
+<img width="960" height="504" alt="eksperimen-sembunyi-tampil" src="https://github.com/user-attachments/assets/81725983-1dca-4030-b510-5c886d0f655e" />
 # Lab6Web — JavaScript DOM dan Event Handling
 
 ## 1. Tujuan Praktikum
