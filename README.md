@@ -56,43 +56,42 @@ Keterangan:
 ### 1. Eksperimen Sembunyi Tampil
 Menampilkan hasil percobaan untuk menyembunyikan dan menampilkan elemen menggunakan JavaScript.
 
-![Eksperimen Sembunyi Tampil](image/eksperimen-sembunyi-tampil.png)
+![Eksperimen Sembunyi Tampil](./image/eksperimen-sembunyi-tampil.png)
 
 ### 2. Latihan 1-2 DOM Click
 Menampilkan perubahan teks pada halaman setelah tombol diklik.
 
-![Latihan 1-2 DOM Click](image/latihan-1-2-dom-click.png)
+![Latihan 1-2 DOM Click](./image/latihan-1-2-dom-click.png)
 
 ### 3. Latihan 1-2 DOM Click 2
 Menampilkan hasil percobaan DOM dan event klik pada halaman web.
 
-![Latihan 1-2 DOM Click 2](image/latihan-1-2-dom-click2.png)
+![Latihan 1-2 DOM Click 2](./image/latihan-1-2-dom-click2.png)
 
 ### 4. Latihan 3 Gaya CSS
 Menampilkan perubahan tampilan elemen menggunakan JavaScript dan class CSS.
 
-![Latihan 3 Gaya CSS](image/latihan-3-gaya-css.png)
+![Latihan 3 Gaya CSS](./image/latihan-3-gaya-css.png)
 
 ### 5. Latihan 4 Penghitung Karakter
 Menampilkan jumlah karakter yang berubah secara langsung saat pengguna mengetik.
 
-![Latihan 4 Penghitung Karakter](image/latihan-4-penghitung-karakter.png)
+![Latihan 4 Penghitung Karakter](./image/latihan-4-penghitung-karakter.png)
 
 ### 6. Latihan 5 Email Tidak Valid
 Menampilkan pesan validasi ketika format email yang dimasukkan tidak sesuai.
 
-![Latihan 5 Email Tidak Valid](image/latihan-5-email-tidak-valid.png)
+![Latihan 5 Email Tidak Valid](./image/latihan-5-email-tidak-valid.png)
 
 ### 7. Latihan 5 Nama Kosong
 Menampilkan validasi ketika kolom nama belum diisi.
 
-![Latihan 5 Nama Kosong](image/latihan-5-nama-kosong.png)
+![Latihan 5 Nama Kosong](./image/latihan-5-nama-kosong.png)
 
 ### 8. Latihan 6 Tambah Selesai Hapus
 Menampilkan fitur untuk menambahkan tugas, menandai tugas selesai, dan menghapus tugas.
 
-![Latihan 6 Tambah Selesai Hapus](image/latihan-6-tambah-selesai-hapus.png)
-
+![Latihan 6 Tambah Selesai Hapus](./image/latihan-6-tambah-selesai-hapus.png)
 ## 6. Kesimpulan
 
 Praktikum ini menunjukkan bahwa JavaScript dapat digunakan untuk mengakses dan mengubah elemen HTML melalui DOM. Penggunaan event handling memungkinkan halaman merespons tindakan pengguna, sedangkan `classList` membantu mengubah tampilan secara dinamis. Penghitung karakter, validasi formulir, dan daftar tugas juga memperlihatkan penerapan JavaScript dalam membangun fitur interaktif.
